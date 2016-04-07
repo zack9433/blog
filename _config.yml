@@ -69,6 +69,6 @@ theme: again
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/zack9433/zack9433.github.io.git
+  repo: https://$DEPLOY_REPO@github.com/zack9433/zack9433.github.io.git
   branch: master
   message:
