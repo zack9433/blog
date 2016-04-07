@@ -6,6 +6,7 @@ before_install:
   - git config --global push.default matching
   - git config --global user.name "zack9433"
   - git config --global user.email "zack9433@gmail.com"
+  - sed -i'' "/^ *repo/s~github\.com~${DEPLOY_REPO}@github.com~" _config.yml
 
 install:
   - npm install hexo-cli -g
