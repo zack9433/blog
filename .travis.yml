@@ -1,0 +1,26 @@
+language: node_js
+node_js:
+  - "^4.4"
+
+before_install:
+  - git config --global push.default matching
+  - git config --global user.name "zack9433"
+  - git config --global user.email "zack9433@gmail.com"
+
+install:
+  - npm install hexo-cli -g
+  - npm install
+  - npm install hexo-generator-feed --save
+  - npm install hexo-deployer-git --save
+  - npm install hexo-renderer-ejs --save
+  - npm install hexo-renderer-stylus --save
+  - npm install hexo-renderer-marked --save
+  - npm install hexo-renderer-sass --save
+
+script:
+  - hexo clean
+  - hexo d -g
+
+cache:
+  directories:
+    - node_modules
