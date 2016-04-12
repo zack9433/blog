@@ -7,12 +7,13 @@ title: RD 日常
 subtitle: Code, Life, Coffee, That's it.
 description: RD 日常的 murmur
 author: Zack Yang
-language:
+language: zh-tw
 timezone:
+avatar: https://secure.gravatar.com/avatar/f56f0914fead2d6040a68b9fff0f39be
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://zack9433.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -64,6 +65,9 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: next
+
+## Comment
+disqus_shortname: zack9433
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
