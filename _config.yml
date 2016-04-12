@@ -73,7 +73,12 @@ creative_commons: by-nc-sa
 social:
   github: https://github.com/zack9433
   twitter: https://twitter.com/zack9433
-google_analytics:
+google_analytics: UA-76323855-1
+google_site_verification: WXoX4esA9D4sJUB_LEUoVA9MiSnb7hwo5bmv3CyfjR0
+menu:
+  home: /
+  archives: /archives
+  tags: /tags
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
