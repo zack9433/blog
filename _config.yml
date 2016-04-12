@@ -9,7 +9,6 @@ description: RD 日常的 murmur
 author: Zack Yang
 language: zh-tw
 timezone:
-avatar: https://secure.gravatar.com/avatar/f56f0914fead2d6040a68b9fff0f39be
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -66,8 +65,15 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: next
 
-## Comment
+### hexo next theme config
+avatar: https://secure.gravatar.com/avatar/f56f0914fead2d6040a68b9fff0f39be
+since: 2016
 disqus_shortname: zack9433
+creative_commons: by-nc-sa
+social:
+  github: https://github.com/zack9433
+  twitter: https://twitter.com/zack9433
+google_analytics:
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
