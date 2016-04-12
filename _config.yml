@@ -9,6 +9,8 @@ description: RD 日常的 murmur
 author: Zack Yang
 language: zh-tw
 timezone:
+sitemap:
+  path: sitemap.xml
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
