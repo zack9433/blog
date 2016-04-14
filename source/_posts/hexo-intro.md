@@ -1,5 +1,5 @@
 ---
-title: Hexo + Github + Travis 架站心路歷程 - 第一步：Hexo
+title: Hexo + Github + Travis 架站心路歷程 - 第一步：Hexo 介紹
 sitemap: false
 date: 2016-04-13 22:40:30
 tags: hexo
@@ -7,6 +7,7 @@ description: 主要紀錄如何透過 Hexo, Github 和 Travis 來架設並自動
 ---
 
 > 主要紀錄如何透過 Hexo, Github 和 Travis 來架設並自動部屬更新部落格。分成三個部分來說明。
+> 第二篇 [Hexo + Github + Travis 架站心路歷程 - 第二步：Github Page 設定](http://zack9433.github.io/2016/04/14/github-page-intro/)
 
 突然心血來潮，想要筆記一下自己工作上所解決的問題，人老了記憶力衰退...，所以就來架個部落格吧！
 
