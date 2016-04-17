@@ -8,6 +8,8 @@ description: 主要紀錄如何透過 Hexo, Github 和 Travis 來架設並自動
 
 > 主要紀錄如何透過 Hexo, Github 和 Travis 來架設並自動部屬更新部落格。分成三個部分來說明。
 > 第二篇 [Hexo + Github + Travis 架站心路歷程 - 第二步：Github Page 設定](http://zack9433.github.io/2016/04/14/github-page-intro/)
+> 第三篇 [Hexo + Github + Travis 架站心路歷程 - 第三步：Travis
+自動佈署](http://zack9433.github.io/2016/04/17/travis-for-blog/)
 
 突然心血來潮，想要筆記一下自己工作上所解決的問題，人老了記憶力衰退...，所以就來架個部落格吧！
 
