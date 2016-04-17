@@ -3,8 +3,7 @@ title: Hexo + Github + Travis 架站心路歷程 - 第三步：Travis 自動佈�
 sitemap: false
 date: 2016-04-16 10:41:28
 tags: travis
-description: 由於想要達到自動佈署，所以可以用一些 CI 來達到，而我選擇用 Travis
-CI，也是可以用其他的 CI service 來達到，例如：Circle CI。
+description: 由於想要達到自動佈署，所以可以用一些 CI 來達到，而我選擇用 Travis CI，也是可以用其他的 CI service 來達到，例如：Circle CI。
 ---
 
 > 由於想要達到自動佈署，所以可以用一些 CI 來達到，而我選擇用 Travis
