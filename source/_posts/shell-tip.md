@@ -4,7 +4,7 @@ sitemap: false
 date: 2016-04-25 09:37:57
 tags:
   - shell
-  - os x
+  - osx
 description: 最近在加強自己工作的流程，希望在操作的速度上能有所提升，所以紀錄一下有用的 shell command。
 ---
 
