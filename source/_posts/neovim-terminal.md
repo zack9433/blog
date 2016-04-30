@@ -12,6 +12,9 @@ tags:
 
 最近心血來潮，想要重整一下編輯器的工作流程，已經從 VIM 切換成 Neovim 一段時間了，在開發 Web 的過程中是利用 [vim-dispatch](https://github.com/tpope/vim-dispatch) 搭配 tmux 來做成 IDE like 的感覺，我只要在 Neovim 中下例如：`Dispatch npm start` 就會開啟一個 tmux pane 在下方，然後在搭配 [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) 來作一個編輯器與 tmux 之間的切換，但看到 Neovim 有支援在編輯中開啟 Terminal 就來試試看吧！
 
+# Demo
+![Demo](/images/slfLrCclC5.gif)
+
 # 安裝
 在 Neovim 安裝以下 Plugins
 - [vim-dispatch](https://github.com/tpope/vim-dispatch) 
