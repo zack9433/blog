@@ -43,3 +43,4 @@ for dir in ["h", "j", "l", "k"]
     call s:mapMoveToWindowInDirection(dir)
 endfor
 ```
+[Reference](https://medium.com/@garoth/neovim-terminal-usecases-tricks-8961e5ac19b9#.mjt4jt12l)
