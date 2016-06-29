@@ -44,7 +44,7 @@ tags:
   "name": "myapp",
   "scripts": {
     "test:e2e": "npm run phantom && npm run protractor",
-    "phantom": "phantomjs --webdriver=4444 & npm config set config myapp:phantomjspid $!",
+    "phantom": "phantomjs --webdriver=4444 & npm config set myapp:phantomjspid $!",
     "protractor": "protractor protractor.conf.js && kill $npm_package_config_phantomjspid"
   }
 }
